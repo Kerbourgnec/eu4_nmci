@@ -13,7 +13,7 @@ East Asia, Central Asia, Middle East and North Africa, Eastern Europe
 East Africa, SEA, India, Western Europe, rest of Africa
 
 ### Steps:
-1 - Rough borders & new countries
+1 - New borders & main countries
 2 - Dev change
 3 - Government change
 4 - Mission trees
